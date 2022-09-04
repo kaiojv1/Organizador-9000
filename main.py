@@ -1,5 +1,3 @@
-
-from multiprocessing.pool import CLOSE
 import os
 import PySimpleGUI as sg
 from pasta_ext import criar_pastas,verificar_extensao
